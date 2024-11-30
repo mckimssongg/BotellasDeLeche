@@ -1,0 +1,16 @@
+C:\Users\mkc\Proyectos\BotellasDeLeche\bin\Debug\net8.0-windows\BotellasDeLeche.exe
+C:\Users\mkc\Proyectos\BotellasDeLeche\bin\Debug\net8.0-windows\BotellasDeLeche.deps.json
+C:\Users\mkc\Proyectos\BotellasDeLeche\bin\Debug\net8.0-windows\BotellasDeLeche.runtimeconfig.json
+C:\Users\mkc\Proyectos\BotellasDeLeche\bin\Debug\net8.0-windows\BotellasDeLeche.dll
+C:\Users\mkc\Proyectos\BotellasDeLeche\bin\Debug\net8.0-windows\BotellasDeLeche.pdb
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.Form1.resources
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.csproj.GenerateResource.cache
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.AssemblyInfoInputs.cache
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.AssemblyInfo.cs
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.csproj.CoreCompileInputs.cache
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.dll
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\refint\BotellasDeLeche.dll
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.pdb
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\BotellasDeLeche.genruntimeconfig.cache
+C:\Users\mkc\Proyectos\BotellasDeLeche\obj\Debug\net8.0-windows\ref\BotellasDeLeche.dll
